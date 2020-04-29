@@ -2,7 +2,7 @@
 
 **Author** : Nikhil Dandamudi
 
-**Specialization** : Transportaion Engineering
+**Specialization Addressed** : Transportaion Engineering
 
 **Description**    : Calculates The Parking Accumulation And Parking Index, Verifies By An Approximate Area Under Curve.
 

@@ -8,3 +8,10 @@
 
 **Algorithm In Action** :
 
+  **Input Given: Vehicle Number Plate Recorded Among Various Time Slots**
+
+![](Utilities/Input.png)
+
+  **Result : Parking Accumilation, Parking Index, Approximate Area Verification**
+
+![](Utilities/Results.png)
